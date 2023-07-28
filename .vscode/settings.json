@@ -1,0 +1,32 @@
+{
+    "java.project.sourcePaths": [
+        "src",
+        ".vscode"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "c:\\Users\\Usr\\Downloads\\javafx-sdk-18.0.1\\lib\\javafx.base.jar",
+            "c:\\Users\\Usr\\Downloads\\javafx-sdk-18.0.1\\lib\\javafx.controls.jar",
+            "c:\\Users\\Usr\\Downloads\\javafx-sdk-18.0.1\\lib\\javafx.fxml.jar",
+            "c:\\Users\\Usr\\Downloads\\javafx-sdk-18.0.1\\lib\\javafx.graphics.jar",
+            "c:\\Users\\Usr\\Downloads\\javafx-sdk-18.0.1\\lib\\javafx.media.jar",
+            "c:\\Users\\Usr\\Downloads\\javafx-sdk-18.0.1\\lib\\javafx.swing.jar",
+            "c:\\Users\\Usr\\Downloads\\javafx-sdk-18.0.1\\lib\\javafx.web.jar",
+            "c:\\Users\\Usr\\Downloads\\javafx-sdk-18.0.1\\lib\\javafx-swt.jar",
+            "c:\\Users\\kshet\\Downloads\\Compressed\\javafx-sdk-18.0.1\\lib\\javafx.base.jar",
+            "c:\\Users\\kshet\\Downloads\\Compressed\\javafx-sdk-18.0.1\\lib\\javafx.controls.jar",
+            "c:\\Users\\kshet\\Downloads\\Compressed\\javafx-sdk-18.0.1\\lib\\javafx.fxml.jar",
+            "c:\\Users\\kshet\\Downloads\\Compressed\\javafx-sdk-18.0.1\\lib\\javafx.graphics.jar",
+            "c:\\Users\\kshet\\Downloads\\Compressed\\javafx-sdk-18.0.1\\lib\\javafx.media.jar",
+            "c:\\Users\\kshet\\Downloads\\Compressed\\javafx-sdk-18.0.1\\lib\\javafx.swing.jar",
+            "c:\\Users\\kshet\\Downloads\\Compressed\\javafx-sdk-18.0.1\\lib\\javafx.web.jar",
+            "c:\\Users\\kshet\\Downloads\\Compressed\\javafx-sdk-18.0.1\\lib\\javafx-swt.jar",
+            "c:\\Users\\kshet\\Downloads\\Compressed\\mysql-connector-java-8.0.29\\mysql-connector-java-8.0.29.jar"
+        ],
+        "exclude": [
+            "c:\\Users\\kshet\\Downloads\\Compressed\\mysql-connector-java-8.0.29.zip"
+        ]
+    }
+}
